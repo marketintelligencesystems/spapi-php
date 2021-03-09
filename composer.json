@@ -17,5 +17,6 @@
   },
   "autoload": {
     "psr-4": { "DoubleBreak\\Spapi\\" : "src/" }
-  }
+  },
+  "minimum-stability": "dev"
 }
