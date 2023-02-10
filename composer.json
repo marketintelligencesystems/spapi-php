@@ -9,11 +9,11 @@
      }
   ],
   "require": {
-    "guzzlehttp/guzzle": "^7.2",
-    "guzzlehttp/psr7": "^1.7",
     "ext-simplexml": "*",
     "ext-json": "*",
-    "ext-zlib": "*"
+    "ext-zlib": "*",
+    "guzzlehttp/guzzle": "^7.4",
+    "guzzlehttp/psr7": "^2.4"
   },
   "autoload": {
     "psr-4": { "DoubleBreak\\Spapi\\" : "src/" }
